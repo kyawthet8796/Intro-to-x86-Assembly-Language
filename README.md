@@ -68,7 +68,9 @@ D-Data
 ```int```-increment
 
 db is 1 byte(8 bits)
+
 dw is 2 bytes(16 bits)
+
 dd is 4 bytes(32 bits)
 
 ```call```
