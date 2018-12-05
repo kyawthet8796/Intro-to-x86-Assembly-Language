@@ -77,3 +77,6 @@ dd is 4 bytes(32 bits)
 - Pushes EIP to stack
 - Preforms a jump
 
+
+*Cheat-sheets*
+https://www.cheatography.com/siniansung/cheat-sheets/linux-assembler/
