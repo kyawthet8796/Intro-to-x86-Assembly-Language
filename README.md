@@ -50,13 +50,21 @@ D-Data
 - Changed by jump operations
 
 ```cmp``` -compare
+
 ```je``` -Jump if Equal
+
 ```jne```-Jump if Not Equal
+
 ```jg```-Jump if Greater
+
 ```jge```-Jump if Greater or Equal
+
 ```jl```-Jump if Less
+
 ```jle```-Jump if Less or Equal
+
 ```dec```-decrement
+
 ```int```-increment
 
 db is 1 byte(8 bits)
